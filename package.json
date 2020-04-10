@@ -1,0 +1,41 @@
+{
+  "name": "graphql-relay-server",
+  "version": "1.0.0",
+  "description": "GraphQL server compatible with Relay in node.js",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaargle-dovetail/graphql-relay-server.git"
+  },
+  "author": "Dovetail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaargle-dovetail/graphql-relay-server/issues"
+  },
+  "homepage": "https://github.com/gaargle-dovetail/graphql-relay-server#readme",
+  "dependencies": {
+    "array-contains-all": "^1.0.1",
+    "array-flatten": "^3.0.0",
+    "array-unique": "^0.3.2",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "graphql-relay": "^0.6.0",
+    "graphql-type-json": "^0.3.1",
+    "promise-props": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "keywords": [
+    "graphql",
+    "relay",
+    "react",
+    "react-relay",
+    "dataloader"
+  ]
+}
