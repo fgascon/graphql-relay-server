@@ -1,6 +1,6 @@
 {
   "name": "graphql-relay-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GraphQL server compatible with Relay in node.js",
   "main": "index.js",
   "scripts": {
