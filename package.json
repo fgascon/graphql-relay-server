@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gaargle-dovetail/graphql-relay-server.git"
+    "url": "git+https://github.com/fgascon/graphql-relay-server.git"
   },
   "author": "Dovetail",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gaargle-dovetail/graphql-relay-server/issues"
+    "url": "https://github.com/fgascon/graphql-relay-server/issues"
   },
-  "homepage": "https://github.com/gaargle-dovetail/graphql-relay-server#readme",
+  "homepage": "https://github.com/fgascon/graphql-relay-server#readme",
   "dependencies": {
     "array-contains-all": "^1.0.1",
     "array-flatten": "^3.0.0",
